@@ -35,6 +35,12 @@
       "dark": {
         "backgroundColor": "#0B1418"
       }
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1a16cbb8-c53e-40b3-b08c-845c99c68b50"
+      }
+    },
+    "owner": "avalynnc"
   }
 }
